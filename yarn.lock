@@ -5001,7 +5001,7 @@ fsevents@~2.1.2:
   version: 0.0.0-use.local
   resolution: "next-js-yarn-v2@workspace:."
   dependencies:
-    next: 9.2.1
+    next: ^9.1.5-canary.0
     react: 16.12.0
     react-dom: 16.12.0
   languageName: unknown
@@ -5014,7 +5014,7 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"next@npm:9.2.1":
+"next@npm:^9.1.5-canary.0":
   version: 9.2.1
   resolution: "next@npm:9.2.1"
   dependencies:

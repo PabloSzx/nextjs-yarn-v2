@@ -5001,7 +5001,7 @@ fsevents@~2.1.2:
   version: 0.0.0-use.local
   resolution: "next-js-yarn-v2@workspace:."
   dependencies:
-    next: 9.2.1
+    next: canary
     react: 16.12.0
     react-dom: 16.12.0
   languageName: unknown
@@ -5014,9 +5014,9 @@ fsevents@~2.1.2:
   languageName: node
   linkType: hard
 
-"next@npm:9.2.1":
-  version: 9.2.1
-  resolution: "next@npm:9.2.1"
+"next@npm:canary":
+  version: 9.2.1-canary.11
+  resolution: "next@npm:9.2.1-canary.11"
   dependencies:
     "@ampproject/toolbox-optimizer": 1.1.1
     "@babel/core": 7.7.2
@@ -5109,7 +5109,7 @@ fsevents@~2.1.2:
     react-dom: ^16.6.0
   bin:
     next: dist/bin/next
-  checksum: 50b7dbf253cc296eac6cec193a7528cf5bd5de61108ca56b686698c94ed5049d3091e61cc22005e13c31352be1475258db18b57c35c548f724dd10942300989f
+  checksum: 8a647e885b15773e2c868c13e6d7b09c368fddf4f1c758f0b3f631c8d3a50ed9a38ea6d3f2e97b06a04a8375ed7bfaf772bccee345c84940a41aebe667047073
   languageName: node
   linkType: hard
 
